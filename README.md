@@ -5,8 +5,7 @@ My first repository
 **Movies**
 *I Am Legend*
 > Dr. Robert Neville's (Will Smith) life in creating a vaccine.
-![I Am Legend](https://github.com/Frraannss/app-dev/assets/152124973/329823c7-2a95-46e4-a355-01e2b313dac5)
-> <img src="https://github.com/Frraannss/app-dev/assets/152124973/329823c7-2a95-46e4-a355-01e2b313dac5" width="200" height="400" />
+> <img src="https://github.com/Frraannss/app-dev/assets/152124973/329823c7-2a95-46e4-a355-01e2b313dac5" width="250" height="250" />
 
 
 *Apocalypto*
