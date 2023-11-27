@@ -11,8 +11,12 @@ My first repository
 
 *Apocalypto*
 > Old  but Gold, a captured hunter runs and fights to survive
+>
+> <img src="https://github.com/Frraannss/app-dev/assets/152124973/3eee3b08-1612-4a51-883b-bafd9c75b47b" width="250" height="300" />
 
 **Series**
 *The Walking Dead*
 > Zombie apocalypse.
+>
+> <img src="https://github.com/Frraannss/app-dev/assets/152124973/157bd64c-7b0a-42ca-a275-2a9771bca2c9" width="250" height="300" />
 
