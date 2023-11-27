@@ -5,8 +5,8 @@ My first repository
 **Movies**
 *I Am Legend*
 > Dr. Robert Neville's (Will Smith) life in creating a vaccine.
-![I Am Legend](https://github.com/Frraannss/app-dev/assets/152124973/329823c7-2a95-46e4-a355-01e2b313dac5)
-> <img src="C:\Users\pagul\Downloads\Legend.jpg" width="200" height="100">
+![I Am Legend](https://github.com/Frraannss/app-dev/assets/152124973/329823c7-2a95-46e4-a355-01e2b313dac5 = 250x250)
+
 
 *Apocalypto*
 > Old  but Gold, a captured hunter runs and fights to survive
