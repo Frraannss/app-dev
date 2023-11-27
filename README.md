@@ -3,6 +3,7 @@ My first repository
 # My favorite series/movies
 
 **Movies**
+
 *I Am Legend*
 > Dr. Robert Neville's (Will Smith) life in creating a vaccine.
 > 
@@ -15,6 +16,7 @@ My first repository
 > <img src="https://github.com/Frraannss/app-dev/assets/152124973/3eee3b08-1612-4a51-883b-bafd9c75b47b" width="250" height="300" />
 
 **Series**
+
 *The Walking Dead*
 > Zombie apocalypse.
 >
